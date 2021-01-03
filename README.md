@@ -1,19 +1,20 @@
 
-## About me
+## 个人简介 
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
 
--  Research associate at the [GATE NLP group ](https://gate.ac.uk/) Department of Computer Science [University of Sheffield](https://www.sheffield.ac.uk/). 
--  [Grantham scholar](http://grantham.sheffield.ac.uk/scholars/jiang/) at the [Grantham Centre for Sustainable Futures](http://grantham.sheffield.ac.uk/).
+- 谢菲尔德大学计算机系自然语言处理组机器学习与可解释性AI博士后;
+- 研究方向: 语义搜索、主题模型、文本特征学习、文本分类、词嵌入模型、知识图谱、可解释性 AI 等；
+- 熟悉预训练语言模型微调并衔接 NLP 下游文本分类、语义搜索、文本生成等任务;
+- 海量文本处理经验，掌握高性能计算机搭建机器学习环境，部署多 GPU 深度学习模型;
+- 机器学习平台: PyTorch/TensorFlow/Keras;
+- 工作环境: Linux/Mac OS/Windows; 
 
-My research interests lie in many NLP research topics, including machine learning approaches for topic modelling, online disinformation and abuse detection, text classification, document/sentence representation learning and explainable AI. 
+## 联系方式
 
-## Contact
-
-*   Address: Room G30, Department of Computer Science, Regent Court, 211 Portobello, Sheffield, S1 4DP, UK.
 *   Email: ye.jiang (AT) sheffield.ac.uk
 *   [LinkedIn](https://www.linkedin.com/in/ye-jiang-357162175/)
 
-## Publications
+## 发表论文
 
 -  (Minor Correction) Jiajia Liu, Yimin Wang, Xin Huang, Marianna Korsos, Ye Jiang, Yuming Wang, Robert Erd´elyi. Reliability of AI-generated magnetograms from only EUV images. Nature Astronomy, 2021.
 
@@ -27,11 +28,11 @@ My research interests lie in many NLP research topics, including machine learnin
 
 -  Hong Xu, Ye Jiang, Yimin Wang, Yewei Sun, Xueqing Li. Sentence length, sentence fragment and images affecting presentation of search result pages. Proceedings of the 2015 JIMET Conference, 2015. [PDF](https://www.atlantis-press.com/proceedings/jimet-15/25843728)
    
-## Projects
+## 参与项目
 - [EUvsVirus: Team WeVerify Detecting Covid-19 Online Disinformation](https://github.com/yjiang18/CoronalVirus_Disinformation)
-This is the code of several models, includes RNN with attention, CNN with BatchNorm, and HAN (Hierarchical Attention Network) for detecting Covid-19 disinformation on the EUvsVirus, this is a multiclass (11 categories) classification, and used BERT to generate word level embedding.
+该项目结合预训练语言模型BERT生成词嵌入，结合attentive RNN, CNN以及Hierarchical Attention Network等自动检测Covid-19虚假信息。
 - [Topic-Aware Hierarchical Document Representation for News Biased Detection](https://github.com/yjiang18/Topical-Aware-Hierarchical-Document-Representation-for-Detecting-Bias-in-News-Articles)
-A Keras implementation of the Hierarchical Attention Network (Yang et al, 2016) incorporating with LDA topic distributions.
-- [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection.](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
-This is the code for the SemEval 2019 Task 4, Hyperpartisan News Detection submitted by team Bertha von Suttner. The model created with this was the winning entry, see the [public leaderboard](https://pan.webis.de/semeval19/semeval19-web/).
+该项目在词级和句子级上分别结合主题模型分布增加特征空间，提高传统HAN模型在文本分类上的精度。
+- [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
+该项目通过上下文词嵌入ELMo，使用CNN与batch normalization建立结构化神经编码器，并在2019国际语义测评大会任务四：超党派新闻中取得[第一名](https://pan.webis.de/semeval19/semeval19-web/)。
 
