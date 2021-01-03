@@ -1,18 +1,14 @@
 
-## 个人简介 
+## 欢迎来到我的主页 
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
 
-- 谢菲尔德大学计算机系自然语言处理组机器学习与可解释性AI博士后;
-- 研究方向: 语义搜索、主题模型、文本特征学习、文本分类、词嵌入模型、知识图谱、可解释性 AI 等；
-- 熟悉预训练语言模型微调并衔接 NLP 下游文本分类、语义搜索、文本生成等任务;
-- 海量文本处理经验，掌握高性能计算机搭建机器学习环境，部署多 GPU 深度学习模型;
-- 机器学习平台: PyTorch/TensorFlow/Keras;
-- 工作环境: Linux/Mac OS/Windows; 
+我现在是英国谢菲尔德大学计算机系自然语言处理组的博士后，我的研究方向在语义搜索、主题模型、文本分类、知识图谱、可解释性 AI 等方面，通过部署各种深度学习模型处理海量文本，优化模型提取文本特征的精度，并且提供深度模型可解释性方案等。
 
 ## 联系方式
 
 *   Email: ye.jiang (AT) sheffield.ac.uk
 *   [LinkedIn](https://www.linkedin.com/in/ye-jiang-357162175/)
+*   微信: yiminking
 
 ## 发表论文
 
