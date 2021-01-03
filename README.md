@@ -1,5 +1,5 @@
 
-## 欢迎来到我的主页 
+## 欢迎来到我的主页 [[English]](ye-jiang.github.io)
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
 
 我现在是英国谢菲尔德大学计算机系自然语言处理组的博士后，我的研究方向在语义搜索、主题模型、文本分类、知识图谱、可解释性 AI 等方面，通过部署各种深度学习模型处理海量文本，优化模型提取文本特征的精度，并且提供深度模型可解释性方案等。
