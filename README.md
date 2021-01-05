@@ -26,9 +26,7 @@
    
 ## 参与项目
 - [EUvsVirus: Team WeVerify Detecting Covid-19 Online Disinformation](https://github.com/yjiang18/CoronalVirus_Disinformation)
-该项目结合预训练语言模型BERT生成词嵌入，结合attentive RNN, CNN以及Hierarchical Attention Network等自动检测Covid-19虚假信息。
 - [Topic-Aware Hierarchical Document Representation for News Biased Detection](https://github.com/yjiang18/Topical-Aware-Hierarchical-Document-Representation-for-Detecting-Bias-in-News-Articles)
-该项目在词级和句子级上分别结合主题模型分布增加特征空间，提高传统HAN模型在文本分类上的精度。
 - [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
-该项目通过上下文词嵌入ELMo，使用CNN与batch normalization建立结构化神经编码器，并在2019国际语义测评大会任务四：超党派新闻中取得[第一名](https://pan.webis.de/semeval19/semeval19-web/)。
+
 
