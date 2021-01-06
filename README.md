@@ -25,8 +25,8 @@
 -  Hong Xu, Ye Jiang, Yimin Wang, Yewei Sun, Xueqing Li. Sentence length, sentence fragment and images affecting presentation of search result pages. Proceedings of the 2015 JIMET Conference, 2015. [PDF](https://www.atlantis-press.com/proceedings/jimet-15/25843728)
    
 ## 参与项目
-- [EUvsVirus: Team WeVerify Detecting Covid-19 Online Disinformation](https://github.com/yjiang18/CoronalVirus_Disinformation)
-- [Topic-Aware Hierarchical Document Representation for News Biased Detection](https://github.com/yjiang18/Topical-Aware-Hierarchical-Document-Representation-for-Detecting-Bias-in-News-Articles)
-- [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
+- [EUvsVirus在线论坛: 关于自动检测Covid-19网络虚假信息的深度学习方法](https://github.com/yjiang18/CoronalVirus_Disinformation)
+- [用主题分布导向的结构化文本表征自动检测超党派新闻](https://github.com/yjiang18/Topical-Aware-Hierarchical-Document-Representation-for-Detecting-Bias-in-News-Articles)
+- [2019国际语义测评大会, 任务四: 超党派新闻检测（第一名）](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
 
 
